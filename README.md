@@ -20,18 +20,18 @@ The data set I analyzed is from the United states department of food agriculture
 research service food atlas data collected over the years 2007-2012 on several indicators affecting 
 food choices and stores. I performed an exploratory analysis to identify the relationship between 
 factors like accessibility to stores and restaurants  and how the growth of new stores and restaurants in different states and counties in the United States has occurred in the time-period  2007-2012. I looked at the overall growth in stores (convenience and food stores) averaged over counties in all the states (excluding Puerto Rico) and also the growth in local businesses. 
-The figure shows that overall the number of stores have only gone down  
-
+The figure shows that overall the number of stores have only gone down(Plot 1)
+### Plot 1
 
 ![Change in number of stores between 2007-12 in all US states](StoresDataChange.png).
 
 
-My initial analysis suggests that states with low mean accessibility like South Dakota 
-
+### Plot 2
 ![Growth in local business](plot6_FarmersMarkt.png)) 
 
 
-the growth in the farmers market has been very minimal. It was also detrimental to local farmers business which showed almost no growth in this state. Comparatively, the data shows that in DC 
+My initial analysis suggests that states with low mean accessibility like South Dakota (Plot2)
+the growth in the farmers market has been very minimal. It was also detrimental to local farmers business which showed almost no growth in this state. Comparatively, the data shows that in DC (Plot2)
 whose population has a better proximity to stores, the local businesses showed a large increase in the 
 five year period from 2007 to 2012.
 
